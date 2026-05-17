@@ -1,110 +1,140 @@
-```md
-# Hi There 👋
+```html id="gk82hd"
+<h1 align="center">Hi There 👋</h1>
 
 <p align="center">
   <samp>
-Founder • Vision Builder • Cybersecurity & AI Aspirant from Libya 🇱🇾
+    Founder • Vision Builder • Cybersecurity & AI Aspirant from Libya 🇱🇾
   </samp>
 </p>
 
----
+<hr>
 
-# Mosab "Mos" MK 🚀
+<h1>Mosab "Mos" MK 🚀</h1>
 
+<p>
 I'm Mos (MK), a Libyan student, founder, and long-term vision builder focused on creating impactful technology, educational systems, and future-driven projects.
+</p>
 
-Currently building:
+<h2>Currently Building</h2>
 
-- 🎓 **Takatof** — Educational platform for university students.
-- 🧠 AI-powered educational tools.
-- 🌍 Long-term vision for MK Global.
-- 🔐 Future specialization in Cybersecurity & Artificial Intelligence.
+<ul>
+  <li>🎓 <b>Takatof</b> — Educational platform for university students.</li>
+  <li>🧠 AI-powered educational tools.</li>
+  <li>🌍 Long-term vision for MK Global.</li>
+  <li>🔐 Future specialization in Cybersecurity & Artificial Intelligence.</li>
+</ul>
 
+<p>
 I believe in building with:
-- Vision
-- Discipline
-- Ethics
-- Faith
-- Long-term thinking
+</p>
 
----
+<ul>
+  <li>Vision</li>
+  <li>Discipline</li>
+  <li>Ethics</li>
+  <li>Faith</li>
+  <li>Long-term thinking</li>
+</ul>
 
-# Current Focus 🔥
+<hr>
 
-### 🚀 Takatof MVP
-Building the first MVP version of Takatof with:
-- Study Rooms
-- Smart Study Tools
-- AI Explain
-- AI Quiz Generator
-- Productivity Features
-- Academic Content System
+<h2>Current Focus 🔥</h2>
 
----
+<h3>🚀 Takatof MVP</h3>
 
-# Learning Journey 📚
+<p>Building the first MVP version of Takatof with:</p>
 
-Currently studying:
-- Computer Science Foundations
-- Cybersecurity
-- Artificial Intelligence
-- Product Building
-- Startup Systems
-- UI/UX Thinking
+<ul>
+  <li>Study Rooms</li>
+  <li>Smart Study Tools</li>
+  <li>AI Explain</li>
+  <li>AI Quiz Generator</li>
+  <li>Productivity Features</li>
+  <li>Academic Content System</li>
+</ul>
 
----
+<hr>
 
-# Tech & Tools 💻
+<h2>Learning Journey 📚</h2>
 
-### Currently Working With
-- Git & GitHub
-- React / Next.js
-- Node.js
-- Figma
-- APIs & AI Tools
+<ul>
+  <li>Computer Science Foundations</li>
+  <li>Cybersecurity</li>
+  <li>Artificial Intelligence</li>
+  <li>Product Building</li>
+  <li>Startup Systems</li>
+  <li>UI/UX Thinking</li>
+</ul>
 
----
+<hr>
 
-# Long-Term Vision 🌌
+<h2>Tech & Tools 💻</h2>
 
-My long-term mission is to build:
-- Educational systems
-- Technology companies
-- AI products
-- Cybersecurity solutions
-- Future deep-tech projects
+<h3>Currently Working With</h3>
 
-Including:
-- MK Global
-- Space AI
-- حلم
+<ul>
+  <li>Git & GitHub</li>
+  <li>React / Next.js</li>
+  <li>Node.js</li>
+  <li>Figma</li>
+  <li>APIs & AI Tools</li>
+</ul>
 
----
+<hr>
 
-# Philosophy 🕌
+<h2>Long-Term Vision 🌌</h2>
 
+<p>My long-term mission is to build:</p>
+
+<ul>
+  <li>Educational systems</li>
+  <li>Technology companies</li>
+  <li>AI products</li>
+  <li>Cybersecurity solutions</li>
+  <li>Future deep-tech projects</li>
+</ul>
+
+<p>Including:</p>
+
+<ul>
+  <li>MK Global</li>
+  <li>Space AI</li>
+  <li>حلم</li>
+</ul>
+
+<hr>
+
+<h2>Philosophy 🕌</h2>
+
+<p>
 I don't chase fast success.
+</p>
 
+<p>
 I build:
-- Skills
-- Systems
-- Discipline
-- Real value
-- Long-term impact
+</p>
 
----
+<ul>
+  <li>Skills</li>
+  <li>Systems</li>
+  <li>Discipline</li>
+  <li>Real value</li>
+  <li>Long-term impact</li>
+</ul>
 
-# Connect With Me 🌍
+<hr>
 
-📧 Email: coming soon  
-🌐 Website: coming soon  
-🧠 Building in public soon...
+<h2>Connect With Me 🌍</h2>
 
----
+<p>📧 Email: coming soon</p>
+<p>🌐 Website: coming soon</p>
+<p>🧠 Building in public soon...</p>
+
+<br>
 
 <p align="center">
   <samp>
-“Build slowly. Build deeply. Build something that matters.”
+    “Build slowly. Build deeply. Build something that matters.”
   </samp>
 </p>
 ```
